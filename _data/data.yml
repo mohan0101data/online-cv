@@ -96,17 +96,29 @@ experiences:
         - Prepared a variety of different written communications, reports and documents to ensure smooth operations.
         - Communicate with government agencies and clients to collaborate and deliver business solutions.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: TEAM MANAGER
+      time: Sep 2012 - Feb 2013
+      company:  Miki Shared Service Center , Cyberjaya, Selangor.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+         - Responsible for RPG team member to assign tasks and completion of their projects.
+         - Working in a project, writing RPG programs to a given specification to meet strict deadlines.
+         - Report to project manager and liaised with other teams to complete the project.
+         - Developed and implemented performance improvement strategies and plans to promote continuous improvement.
+         - Used coordination and planning skills to achieve results according to schedule.
+    - role: SENIOR SOFTWARE ENGINEER
+      time: Jan 2000 - Dec 2011
+      company:  Willis Risk Services , Dublin, Ireland.
+      details: |
+         - Regulate implementation of all project phases to ensure adherence to the full software development life cycle (SDLC)
+           standards.
+         - Steering a key revamp of documentation processing, i.e., conversion of hardcopy AS/400 documents into softcopy (PDF) that
+           significantly reduces printing cost, alleviate archiving task and improving accounts processing productivity by 25%.
+         - Stimulating 50% improvement in Service Level Agreement (SLA) through successful deployment of Information Technology
+           Infrastructure Library (ITIL) tracking system called Service Desk that systematically supports IT service support and delivery.
+         - Spearheading implementation of audit-compliant change management software (Turnover for iSeries) that minimizes change
+           impacts and service disruptions, leading to downtime reduction by over 30%.
+         - Maintain close collaborative liaison with business units (e.g., updating progress development), user groups (e.g., reviewing
+           requirements and specifications, coding modifications and new developments) and third parties (e.g., vendors).
 projects:
     title: Projects
     intro: >

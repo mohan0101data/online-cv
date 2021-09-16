@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: mohanadassan@gmail.com
     phone: +60 12 478 1829
-    website: https://mohan0101data.github.io/ #do not add http://
+    website: mohan0101data.github.io/ #do not add http://
     linkedin: mohanadassan-subramaniam-779320109
     github: mohan0101data
     telegram: # add your nickname without '@' sign
@@ -48,12 +48,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decision.
+      Excellent understanding and proficiency of platforms for effective data analyses including SQL, Python, R , spreadsheet and Tableau.
+      Strong communication, organizational and analytical skills. Recently completed the Google Data Analytics Certificate – a rigorous,
+      hands-on program that covers the entire scope of the data analysis process.
 education:
     - degree: MSc in Computer Science
       university: University of London

@@ -27,13 +27,13 @@ sidebar:
     pdf: https://drive.google.com/drive/folders/1VB_yE0A3dYE7A9bs_7KdRTJUuLAOpDc7
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Malay
+        level: Professional
+
+      - idiom: Tamil
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
